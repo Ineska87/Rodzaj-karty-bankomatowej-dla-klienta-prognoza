@@ -1,0 +1,1 @@
+# Rodzaj-karty-bankomatowej-dla-klienta-prognoza
